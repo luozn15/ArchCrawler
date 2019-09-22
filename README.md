@@ -44,4 +44,5 @@ Name your out-put directory:
 infos and pictures will be saved under the same directory as the source code or executable file, named as your input
 
 ## Download
-For windows: [archdaily_crawler.exe](https://cloud.tsinghua.edu.cn/f/824e76871c544fe6b56b/?dl=1)
+For Windows: 
+* [archdaily_crawler.exe](https://cloud.tsinghua.edu.cn/f/824e76871c544fe6b56b/?dl=1)
