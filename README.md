@@ -1,5 +1,5 @@
 # Archdaily Crawler
-This is a cli crawler for architecture design websets.
+This is a cli crawler for architecture design websites.
 
 Designed to crawl high quality architecture images and project information. 
 
