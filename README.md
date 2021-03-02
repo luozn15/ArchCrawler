@@ -5,7 +5,7 @@
   python archdaily_crawler.py
 ```  
 - or start with **executable file**：  
-  double click ***archdaily_crawler.exe***
+  ***archdaily_crawler.exe***
 
 
 ## Several input is required in command line:
@@ -41,7 +41,7 @@ Name your out-put directory:
 > **train-station**  
 
 ## Notes
-infos and pictures will be saved under the same directory as the source code or executable file, named as your input
+information and pictures will be saved under the same directory as the source code or executable file, named as your input
 
 ## Download
 For Windows: 
