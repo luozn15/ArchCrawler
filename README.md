@@ -45,4 +45,4 @@ information and pictures will be saved under the same directory as the source co
 
 ## Download
 For Windows: 
-* [archdaily_crawler.exe](https://cloud.tsinghua.edu.cn/f/824e76871c544fe6b56b/?dl=1)
+* [archdaily_crawler.exe](https://cloud.tsinghua.edu.cn/f/63df9f839e8b44318995/?dl=1)
