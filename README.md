@@ -1,4 +1,7 @@
 # Archdaily Crawler
+This is a cli crawler for architecture design websets.
+Designed to crawl high quality architecture images and project information. 
+Current support: Archdaily.
 ## Start
 - start with **source code**:  
 ```shell
